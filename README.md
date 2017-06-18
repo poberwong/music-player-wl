@@ -3,8 +3,8 @@ A react-native player for Lin-Wang. It will be a very magical challenge
 
 ## TODO
 *step1* : 启动前准备
-  * 完成原型图（手绘、工具作图都可以）
-  * 收集*小团子*素材，做好对应的动画设计、图标设计 （征求小姐姐意见）
+  * 完成原型图（手绘、工具作图都可以）  
+  * 收集*小团子*素材，做好对应的动画设计、图标设计 （征求小姐姐意见）
   
 *step2* : 启动开发
   * 完成基本的本地音乐播放功能   
@@ -21,4 +21,4 @@ A react-native player for Lin-Wang. It will be a very magical challenge
   * 接入 CodePush   
 
 *step5*  
-  ... 还有一系列惊喜哦  
+  还有一系列惊喜哦 ...
