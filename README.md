@@ -13,8 +13,8 @@ A react-native player for Lin-Wang. It will be a very magical challenge
   * 完成在线音乐的播放，缓存  
   * 按照原型启动周边的 task （没有设计图就直接细化原型图）  
   
-*step3* : 周边模块
-  * 开始动画部分、欢迎页（征求小姐姐意见）  
+*step3* : 周边模块  
+ * 开始动画部分、欢迎页（征求小姐姐意见）  
   * 优化个部分动画、性能  
   
 *step4* : 热更新  
